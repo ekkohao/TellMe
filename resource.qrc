@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/style">
+        <file>main.qss</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/touxiang.png</file>
+        <file>images/arrowDown.png</file>
+        <file>images/arrowRight.png</file>
+    </qresource>
+</RCC>
